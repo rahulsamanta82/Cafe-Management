@@ -7,14 +7,14 @@ export const DEMO_USERS: User[] = [
     username: 'main.manager',
     password: 'main123',
     role: 'main_manager',
-    name: 'Sarah Johnson'
+    name: 'Soumen Goswami'
   },
   {
     id: '2',
     username: 'branch.downtown',
     password: 'branch123',
     role: 'branch_manager',
-    name: 'Mike Chen',
+    name: 'Soumendu Mondal',
     branchId: 'branch-1'
   },
   {
@@ -22,7 +22,7 @@ export const DEMO_USERS: User[] = [
     username: 'branch.uptown',
     password: 'branch123',
     role: 'branch_manager',
-    name: 'Lisa Rodriguez',
+    name: 'Sourav',
     branchId: 'branch-2'
   },
   {
@@ -30,7 +30,7 @@ export const DEMO_USERS: User[] = [
     username: 'kitchen.manager',
     password: 'kitchen123',
     role: 'central_kitchen_manager',
-    name: 'David Kim'
+    name: 'Soumo'
   },
   {
     id: '5',

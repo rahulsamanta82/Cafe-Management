@@ -105,7 +105,7 @@ export function Sidebar({ activeTab, onTabChange }: SidebarProps) {
             <Coffee className="h-6 w-6 text-white" />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-amber-900">Blumen Cafe</h1>
+            <h1 className="text-xl font-bold text-amber-900">Rahul Cafe</h1>
             <p className="text-sm text-amber-700">Management System</p>
           </div>
         </div>

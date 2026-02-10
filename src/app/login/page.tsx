@@ -53,7 +53,7 @@ export default function LoginPage() {
                 </div>
               </div>
               <CardTitle className="text-2xl font-bold text-amber-900">
-                Blumen Cafe
+                Rahul Cafe
               </CardTitle>
               <p className="text-amber-700 mt-2">Management System</p>
             </CardHeader>
@@ -112,7 +112,7 @@ export default function LoginPage() {
         <div className="space-y-6">
           <div className="text-center lg:text-left">
             <h2 className="text-3xl font-bold text-amber-900 mb-4">
-              Welcome to Blumen Cafe
+              Welcome to Rahul Cafe
             </h2>
             <p className="text-amber-700 text-lg">
               Multi-branch management system with role-based access control
